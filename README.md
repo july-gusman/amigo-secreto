@@ -47,6 +47,9 @@ O desafio consiste em criar uma aplicação funcional que permita:
 
 ---
 
+![Veja uma imagem do projeto](./imagens/imagem-tela.png)
+
+
 ## 💡 Ideias para Melhorias Futuras
 
 - Adicionar animações ao sortear os amigos.
